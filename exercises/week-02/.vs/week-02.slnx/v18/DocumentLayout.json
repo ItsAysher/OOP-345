@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\TimedTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\tester_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\TimedTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\ProteinDatabase.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\ProteinDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\sample_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\sample_output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\protein_sequences.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercise-01\\release\\protein_sequences.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProteinDatabase.cpp",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.cpp",
+              "RelativeDocumentMoniker": "exercise-01\\release\\ProteinDatabase.cpp",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.cpp",
+              "RelativeToolTip": "exercise-01\\release\\ProteinDatabase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T18:59:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProteinDatabase.h",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.h",
+              "RelativeDocumentMoniker": "exercise-01\\release\\ProteinDatabase.h",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\ProteinDatabase.h",
+              "RelativeToolTip": "exercise-01\\release\\ProteinDatabase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:59:20.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimedTask.cpp",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.cpp",
+              "RelativeDocumentMoniker": "exercise-01\\release\\TimedTask.cpp",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.cpp",
+              "RelativeToolTip": "exercise-01\\release\\TimedTask.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T18:59:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimedTask.h",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.h",
+              "RelativeDocumentMoniker": "exercise-01\\release\\TimedTask.h",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\TimedTask.h",
+              "RelativeToolTip": "exercise-01\\release\\TimedTask.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T18:58:32.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sample_output.txt",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\sample_output.txt",
+              "RelativeDocumentMoniker": "exercise-01\\release\\sample_output.txt",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\sample_output.txt",
+              "RelativeToolTip": "exercise-01\\release\\sample_output.txt",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-13T18:53:39.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\readme.md",
+              "RelativeDocumentMoniker": "exercise-01\\readme.md",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\readme.md",
+              "RelativeToolTip": "exercise-01\\readme.md",
+              "ViewState": "AgIAAHsAAAAAAAAAAAApwIoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-13T18:49:47.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tester_1.cpp",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\tester_1.cpp",
+              "RelativeDocumentMoniker": "exercise-01\\release\\tester_1.cpp",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\tester_1.cpp",
+              "RelativeToolTip": "exercise-01\\release\\tester_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T18:49:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "protein_sequences.txt",
+              "DocumentMoniker": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\protein_sequences.txt",
+              "RelativeDocumentMoniker": "exercise-01\\release\\protein_sequences.txt",
+              "ToolTip": "C:\\Users\\ashar\\OneDrive\\Documents\\GitHub\\OOP-345\\exercises\\week-02\\exercise-01\\release\\protein_sequences.txt",
+              "RelativeToolTip": "exercise-01\\release\\protein_sequences.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-13T18:49:01.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
